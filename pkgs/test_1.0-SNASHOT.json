@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0",
+  "build": "SNAPSHOT",
+  "author": [ "40fpsss" ],
+  "type": "software",
+  "license": "GPL3",
+  "arch": "amd64",
+  "conflicts": [],
+  "dependencies": [],
+  "firmware": "efi",
+  "software": []
+}
